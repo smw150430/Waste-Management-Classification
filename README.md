@@ -1,4 +1,4 @@
-# Waste-Management-Classification
+# Waste Management Classification
 
 Contributor: Stephen Williams
 
