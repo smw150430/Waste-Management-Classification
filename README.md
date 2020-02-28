@@ -3,7 +3,7 @@
 Contributor: Stephen Williams
 
 ## Goal 
-This project aims to classify images into organic and recyclable categories.  Given the prevalence of global warming and environmental negligence in the various news outlets worldwide, I have concerned myself with a subset of such things, waste management.  The aforementioned model will permit for automating a subset of the waste management process.
+This project aims to classify images into organic and recyclable/non-organic categories.  I have concerned myself with this to compose a means to efficiently identify and ultimately automate waste management.  Currently, the burden of sorting waste is left to individual households and the like.  Given their unreliable temperments, it would be preferable to circumvent the human element in the waste management process.
 
 ## Contents 
   * [Architectures](https://github.com/smw150430/Waste-Management-Classification/tree/master/Architectures): json files of the convolutional neural networks that were built and trained  
