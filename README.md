@@ -19,6 +19,6 @@ This project aims to classify images into organic and non-organic categories.  I
     * Matplotlib  
     * NumPy  
     * pandas  
-    * seaborn  
     * Scikit-learn  
+    * seaborn  
     * TensorFlow  
