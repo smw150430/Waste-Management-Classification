@@ -13,12 +13,12 @@ This project aims to classify images into organic and recyclable categories.  Gi
 
 ## Technologies Leveraged  
 -Python  
- -Keras  
- -Matplotlib  
- -NumPy  
- -pandas  
- -seaborn  
- -Scikit-learn  
- -TensorFlow  
+  * -Keras  
+  * -Matplotlib  
+  * -NumPy  
+  * -pandas  
+  * -seaborn  
+  * -Scikit-learn  
+  * -TensorFlow  
 -Cloud  
- -Google Cloud Platform 
+  * -Google Cloud Platform 
