@@ -12,6 +12,8 @@ This project aims to classify images into organic and recyclable categories.  Gi
   * [Technical Notebook](https://github.com/smw150430/Waste-Management-Classification/blob/master/working_notebook.ipynb): the notebook used to build and evaluate the models  
 
 ## Technologies Leveraged  
+  * Cloud  
+    * Google Cloud Platform 
   * Python  
     * Keras  
     * Matplotlib  
@@ -20,5 +22,3 @@ This project aims to classify images into organic and recyclable categories.  Gi
     * seaborn  
     * Scikit-learn  
     * TensorFlow  
-  * Cloud  
-    * Google Cloud Platform 
