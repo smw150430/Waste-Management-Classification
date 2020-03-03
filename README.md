@@ -9,6 +9,7 @@ This project aims to classify images into organic and non-organic categories.  I
   * [Architectures](https://github.com/smw150430/Waste-Management-Classification/tree/master/Architectures): json files of the convolutional neural networks that were built and trained  
   * [DATASET_2](https://github.com/smw150430/Waste-Management-Classification/tree/master/DATASET_2): compressed files of images (25081)  
   * [Images](https://github.com/smw150430/Waste-Management-Classification/tree/master/Images): example images and confusion matrices generated from the model predictions  
+  * [Waste Management Classification.pdf](https://github.com/smw150430/Waste-Management-Classification/blob/master/Waste%20Management%20Classification.pdf): pdf of presentation slides
   * [working_notebook.ipynb](https://github.com/smw150430/Waste-Management-Classification/blob/master/working_notebook.ipynb): the notebook used to build and evaluate the models  
 
 ## Technologies Leveraged  
